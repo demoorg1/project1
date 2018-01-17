@@ -1,4 +1,4 @@
-# Demo Organisation Pages
+# Demo Project 1 Pages
 
 Setup:
 
